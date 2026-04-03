@@ -39,4 +39,5 @@ reports/figures/*
 Thumbs.db
 .vscode/
 
-data/
+/data/
+!GraphInstruct/LLaMAFactory/src/llamafactory/data/
