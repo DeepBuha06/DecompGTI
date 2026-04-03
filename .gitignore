@@ -40,4 +40,6 @@ Thumbs.db
 .vscode/
 
 /data/
+GraphInstruct/LlamaFactory/data/
+GraphInstruct/LlamaFactory/tests/data/
 !GraphInstruct/LLaMAFactory/src/llamafactory/data/
